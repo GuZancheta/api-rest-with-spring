@@ -12,7 +12,7 @@ import jakarta.persistence.OneToOne;
 import java.util.List;
 
 @Entity
-public class User {
+public class UserBank {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
