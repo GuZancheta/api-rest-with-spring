@@ -1,4 +1,4 @@
-package br.com.gustavoz.controller;
+package br.com.gustavoz.controller.exception;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
