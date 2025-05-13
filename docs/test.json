@@ -10,13 +10,13 @@
     "number": "xxxx xxxx xxxx 1111",
     "limit": 2000.00
   },
-  "features": [
+  "featureList": [
     {
       "icon": "URL",
       "description": "Feature description test"
     }
   ],
-  "news": [
+  "newsList": [
     {
       "icon": "URL",
       "description": "News description test"
